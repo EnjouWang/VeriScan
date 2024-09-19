@@ -1,5 +1,5 @@
 const searchEngineID = '50d4182e5b50446da';
-const apiKey = 'AIzaSyA9Y61xuFtk-vcWt_jYxB5MKl2gXBUN4OY';
+const apiKey = '';
 const wikipageURL = "https://en.wikipedia.org/?curid=";
 
 let claim, query, method, evidence_link, result;
