@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>VeriScan</title>
+    <link rel="stylesheet" type="text/css" href="result.css"/>
+</head>
+<body>
+    <script src="result.js"></script>
+    <div class="frame" id="result" style="display: flex;">
+        <div class="loading" id="loading" style="display: flex;">
+            <div class="mask"></div>
+            <img src="./loading.gif" class="loadingGIF"/>
+        </div>
+
+        <div class="title">VeriScan</div>
+        <img src="./icon.png" class="img" id="result_img"/>
+        <div class="content" id="claim"></div>
+        <div class="content" id="sentence" style="display: none; font-weight: bold;">This sentence 
+            <span id="refute" style="display: none; font-weight: bold;"> is refuted.</span>
+            <span id="nei" style="display: none; font-weight: bold;"> lacks enough information.</span>
+            <span id="support" style="font-weight: bold;"> is supported.</span>
+        </div>
+
+        <a id="details" href="javascript:">Details</a>
+        <a id="hide_details" href="" style="display: none;">Details_Link</a>
+    </div>
+    
+</body>
+</html>
