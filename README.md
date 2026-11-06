@@ -13,7 +13,7 @@ Highlight a claim on any web page, right-click, and choose **VeriScan**. The ext
 ▶️ **[Watch the demo on YouTube](https://youtu.be/hx9WleYAAko)**
 
 <p align="center">
-  <img src="assets/demo.png" alt="VeriScan side panel showing a verdict and its evidence sentence" width="700">
+  <img src="assets/demo.jpeg" alt="VeriScan side panel showing a verdict and its evidence sentence" width="700">
 </p>
 
 ---
